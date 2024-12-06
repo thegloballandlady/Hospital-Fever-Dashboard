@@ -104,7 +104,7 @@ This project offers a detailed examination of the factors contributing to fever 
 
 ### Data Visualization 
 ---
-![h1](https://github.com/user-attachments/assets/a360f05b-cd90-4457-a5bb-803fae7c66d9)
+![h1](https://github.com/user-attachments/assets/8d383218-89c0-4933-bc64-cfd1daeb11b8)
 
 
 
